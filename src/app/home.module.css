@@ -1,0 +1,9 @@
+.section
+{   
+    background-image:url(../../public/ejemplo3.png);
+    background-position: right top;
+    background-size: cover;
+    position: absolute;
+    height: 70%;
+    width: 100%;
+}
